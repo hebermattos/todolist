@@ -10,6 +10,7 @@ namespace ClienteTodoList
     {
         static async Task Main(string[] args)
         {
+            //get the endpoints
             var client = new HttpClient();
             var disco = await client.GetDiscoveryDocumentAsync("http://localhost:5003");
 
@@ -19,12 +20,13 @@ namespace ClienteTodoList
                 return;
             }
 
+            //authorization
             var tokenResponse = await client.RequestClientCredentialsTokenAsync(new ClientCredentialsTokenRequest
             {
                 Address = disco.TokenEndpoint,
 
-                ClientId = "client-todolist",
-                ClientSecret = "secret",
+                ClientId = "client01",
+                ClientSecret = "client01secret",
                 Scope = "todolist"
             });
 
@@ -34,6 +36,7 @@ namespace ClienteTodoList
                 return;
             }
 
+            //request
             var apiClient = new HttpClient();
             apiClient.SetBearerToken(tokenResponse.AccessToken);
 

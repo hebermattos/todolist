@@ -26,7 +26,7 @@ namespace IdentityServer
             {
                 new Client
                     {
-                        ClientId = "client-todolist",
+                        ClientId = "client01",
 
                         // no interactive user, use the clientid/secret for authentication
                         AllowedGrantTypes = GrantTypes.ClientCredentials,
@@ -34,7 +34,7 @@ namespace IdentityServer
                         // secret for authentication
                         ClientSecrets =
                         {
-                            new Secret("secret".Sha256())
+                            new Secret("client01secret".Sha256())
                         },
 
                         // scopes that client has access to
