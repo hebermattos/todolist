@@ -1,0 +1,16 @@
+C:\Projetos\ClienteTodoList\bin\Debug\netcoreapp3.1\ClienteTodoList.exe
+C:\Projetos\ClienteTodoList\bin\Debug\netcoreapp3.1\ClienteTodoList.deps.json
+C:\Projetos\ClienteTodoList\bin\Debug\netcoreapp3.1\ClienteTodoList.runtimeconfig.json
+C:\Projetos\ClienteTodoList\bin\Debug\netcoreapp3.1\ClienteTodoList.runtimeconfig.dev.json
+C:\Projetos\ClienteTodoList\bin\Debug\netcoreapp3.1\ClienteTodoList.dll
+C:\Projetos\ClienteTodoList\bin\Debug\netcoreapp3.1\ClienteTodoList.pdb
+C:\Projetos\ClienteTodoList\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Projetos\ClienteTodoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\ClienteTodoList\obj\Debug\netcoreapp3.1\ClienteTodoList.csprojAssemblyReference.cache
+C:\Projetos\ClienteTodoList\obj\Debug\netcoreapp3.1\ClienteTodoList.AssemblyInfoInputs.cache
+C:\Projetos\ClienteTodoList\obj\Debug\netcoreapp3.1\ClienteTodoList.AssemblyInfo.cs
+C:\Projetos\ClienteTodoList\obj\Debug\netcoreapp3.1\ClienteTodoList.csproj.CoreCompileInputs.cache
+C:\Projetos\ClienteTodoList\obj\Debug\netcoreapp3.1\ClienteTodoList.csproj.CopyComplete
+C:\Projetos\ClienteTodoList\obj\Debug\netcoreapp3.1\ClienteTodoList.dll
+C:\Projetos\ClienteTodoList\obj\Debug\netcoreapp3.1\ClienteTodoList.pdb
+C:\Projetos\ClienteTodoList\obj\Debug\netcoreapp3.1\ClienteTodoList.genruntimeconfig.cache
