@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xj9t4dZTObNG3PUBd1oXSbd4S7i61m2qGo3sv4IqdXnKWmG8t2xwIe+3g8x3BHJOpwpmD3BGFoUZFK9flLTIyw==",
+  "dgSpecHash": "FcQILabVK1kPmQNOyp2Q67Zgs42Wlp0zC2TcSZCsq65Qw4UKPkWEj6ozMgFR8Z6aNHHKERZ6HwEbeGwZXyLS8g==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\ClienteTodoList\\ClienteTodoList.csproj",
+  "projectFilePath": "C:\\Projetos\\todolist\\Cliente\\Cliente.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilegra-0669\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",

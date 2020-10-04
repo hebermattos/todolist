@@ -121,11 +121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ClienteTodoList\\ClienteTodoList.csproj",
-      "projectName": "ClienteTodoList",
-      "projectPath": "C:\\Projetos\\ClienteTodoList\\ClienteTodoList.csproj",
+      "projectUniqueName": "C:\\Projetos\\todolist\\Cliente\\Cliente.csproj",
+      "projectName": "Cliente",
+      "projectPath": "C:\\Projetos\\todolist\\Cliente\\Cliente.csproj",
       "packagesPath": "C:\\Users\\ilegra-0669\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ClienteTodoList\\obj\\",
+      "outputPath": "C:\\Projetos\\todolist\\Cliente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

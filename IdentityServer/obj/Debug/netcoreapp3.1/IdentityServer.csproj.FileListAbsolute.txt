@@ -1,54 +1,3 @@
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.exe
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.deps.json
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.json
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.dev.json
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.pdb
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
-C:\Projetos\Bem Promotora\IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csprojAssemblyReference.cache
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CoreCompileInputs.cache
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cache
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CopyComplete
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IdentityServer.StaticWebAssets.Manifest.cache
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IdentityServer.StaticWebAssets.xml
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
-C:\Projetos\Bem Promotora\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.genruntimeconfig.cache
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csprojAssemblyReference.cache
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CoreCompileInputs.cache
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cache
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cs
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
-C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
-C:\Projetos\todolist\IdentityServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Projetos\todolist\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.exe
 C:\Projetos\todolist\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.deps.json
 C:\Projetos\todolist\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.json
@@ -79,6 +28,13 @@ C:\Projetos\todolist\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Consol
 C:\Projetos\todolist\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
 C:\Projetos\todolist\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
 C:\Projetos\todolist\IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csprojAssemblyReference.cache
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CoreCompileInputs.cache
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cache
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cs
 C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.TagHelpers.input.cache
 C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.TagHelpers.output.cache
 C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorCoreGenerate.cache
@@ -107,4 +63,6 @@ C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.Views
 C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CopyComplete
 C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IdentityServer.StaticWebAssets.Manifest.cache
 C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IdentityServer.StaticWebAssets.xml
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
+C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
 C:\Projetos\todolist\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.genruntimeconfig.cache
