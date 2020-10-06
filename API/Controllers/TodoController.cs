@@ -19,7 +19,7 @@ namespace todolist.Controllers
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new Todo
             {
-                Descricao = "tarefa " + index
+                Descricao = "task " + index
             })
             .ToArray();
         }
